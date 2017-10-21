@@ -1,0 +1,281 @@
+
+
+<!doctype HTML>
+
+<!-- BEGIN CategoryNavigationDisplay.jsp --><!-- BEGIN EnvironmentSetup --><!-- FeaturesSetup --><!-- END EnvironmentSetup --><!-- popravko --><!-- end popravko -->
+
+<html xmlns:wairole="http://www.w3.org/2005/01/wai-rdf/GUIRoleTaxonomy#"
+xmlns:waistate="http://www.w3.org/2005/07/aaa" lang="ru" xml:lang="ru">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+		<!-- popravko -->
+		    	<title>
+					Мясные деликатесы - широкий выбор, низкие цены, доставка – интернет-магазин ОКЕЙ
+				</title>			
+				<meta
+					name="description" 
+					content="
+						Страница каталога Мясные деликатесы онлайн магазина О’КЕЙ. Здесь вы можете выбрать товары из нашего ассортимента и заказать с доставкой.">
+				</meta>
+		    <!-- end popravko -->
+		
+		<meta name="keywords" content=""/>
+		<meta name="pageName" content="CategoryPage"/>
+	    <link rel="canonical" href="/spb/miasnye-delikatesy-16554-20" />
+		
+		<!--Main Stylesheet for browser -->
+		<link rel="stylesheet" href="/wcsstore/OKMarketSAS/_ver_r5956_ver_css/common1_1ru_RU.css" type="text/css" media="screen"/>
+		<!-- Style sheet for print -->
+		<link rel="stylesheet" href="/wcsstore/OKMarketSAS/_ver_r5956_ver_css/print.css" type="text/css" media="print"/>
+
+		<!-- Include script files --><!-- BEGIN CommonJSToInclude.jspf --><!-- Google Tag Manager Container-->			
+		<script>		
+		(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+		new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+		j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+		'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+		})(window,document,'script','dataLayer','GTM-K79FP6');		
+		</script>
+	<!-- End Google Tag Manager Container--><!-- Style sheet for RWD -->
+<link type="text/css" rel="stylesheet"
+      href="https://fonts.googleapis.com/css?family=PT+Sans:400,400italic,700,700italic&amp;subset=latin,cyrillic"/>
+
+<link rel="stylesheet" href="/wcsstore/OKMarketSAS/_ver_r5956_ver_css/styles.css" type="text/css"/>
+<link rel="stylesheet" href="/wcsstore/OKMarketSAS/_ver_r5956_ver_css/oktheme/glyphicons.css" type="text/css"/>
+<link rel="stylesheet" href="/wcsstore/OKMarketSAS/_ver_r5956_ver_css/oktheme/font-awesome.min.css" type="text/css"/>
+<link rel="stylesheet" href="/wcsstore/OKMarketSAS/_ver_r5956_ver_css/oktheme/styles.css" type="text/css"/>
+
+<!--<link rel="stylesheet" href="/wcsstore/OKMarketSAS/" type="text/css" />-->
+<!--[if IE 8]>
+<link rel="stylesheet" href="/wcsstore/OKMarketSAS/css/stylesIE8.css" type="text/css" />
+<![endif]-->
+
+
+
+<script type="text/javascript" charset="UTF-8" src="/wcsstore/dojo18/dojo/dojo.js"
+        djConfig="parseOnLoad: true, debugAtAllCosts:false, isDebug: false,  modulePaths: {'okey': '/wcsstore/OKMarketSAS/_ver_r5956_ver_javascript/okey', 'storetext': '/wcsstore/OKMarketSAS/'}, useCommentedJson: true,locale: 'ru-ru' "></script>
+<script type="text/javascript" charset="UTF-8" src="/wcsstore/dojo18/dojo/dojodesktop-rwd.js"
+        djConfig="parseOnLoad: true, debugAtAllCosts:false, isDebug: false,  modulePaths: {'okey': '/wcsstore/OKMarketSAS/_ver_r5956_ver_javascript/okey', 'storetext': '/wcsstore/OKMarketSAS/'}, useCommentedJson: true,locale: 'ru-ru' "></script>
+
+
+
+
+<meta name="CommerceSearch" content="storeId_10653_13160"/>
+<meta name="apple-mobile-web-app-capable" content="yes"/>
+
+
+
+
+<link rel="icon" href="/wcsstore/OKMarketSAS/images/favicon.ico" mce_href="/wcsstore/OKMarketSAS/images/favicon.ico"
+      type="image/x-icon"/>
+<link rel="shortcut icon" href="/wcsstore/OKMarketSAS/images/favicon.ico" mce_href="/wcsstore/OKMarketSAS/images/favicon.ico"
+      type="image/x-icon"/>
+
+
+<link rel="apple-touch-icon-precomposed" href="/wcsstore/OKMarketSAS/images/touch-icon-60px.png" sizes="60x60"/>
+<link rel="apple-touch-icon-precomposed" href="/wcsstore/OKMarketSAS/images/touch-icon-72px.png" sizes="72x72"/>
+<link rel="apple-touch-icon-precomposed" href="/wcsstore/OKMarketSAS/images/touch-icon-76px.png" sizes="76x76"/>
+<link rel="apple-touch-icon-precomposed" href="/wcsstore/OKMarketSAS/images/touch-icon-114px.png" sizes="114x114"/>
+<link rel="apple-touch-icon-precomposed" href="/wcsstore/OKMarketSAS/images/touch-icon-120px.png" sizes="120x120"/>
+<link rel="apple-touch-icon-precomposed" href="/wcsstore/OKMarketSAS/images/touch-icon-144px.png" sizes="144x144"/>
+<link rel="apple-touch-icon-precomposed" href="/wcsstore/OKMarketSAS/images/touch-icon-152px.png" sizes="152x152"/>
+
+
+<!-- BEGIN CommonJSNoCache.jsp --><!-- BEGIN EnvironmentSetup --><!-- FeaturesSetup --><!-- END EnvironmentSetup -->
+
+<script type="text/javascript">
+// Convert the WCParam object which contains request properties into javascript object
+<!---->
+<!--Мясныеделикатесы-->
+var WCParamJS = {
+    storeId: '10653',
+    ffcId: '13159',
+    storeGroup: 'spb1',
+    catalogId: '12052',
+    langId: '-20',
+    pageView: 'grid',
+    orderBy: '',
+    orderByContent: '',
+    searchTerm: '',
+    userType: 'G',
+    userId: '-1002',
+	logonId: '',
+    currencySymbol: 'руб.',
+    businessChannel: -1,
+    userFirstName: '',
+    userLastName: '',
+    currentPage: "Мясныеделикатесы",
+	mobihubVersion: '010',
+	logonUrl:"/webapp/wcs/stores/servlet/ReLogonFormView?catalogId=12052&myAcctMain=1&langId=-20&storeId=10653",
+    isB2B: false,
+	b2bMinCartTotal: '',			
+	maxOrderWeight:'100',
+	iosAppId: '1087812169',
+	imageDirectoryPath: '/wcsstore/OKMarketSAS/',
+	isFfcMode: true
+};
+</script>
+<!-- END CommonJSNoCache.jsp -->
+					
+<script type="text/javascript">
+	//Import the required Dojo libraries
+	dojo.registerModulePath("wc", "../_ver_r5956_ver_wc");
+
+	dojo.require("wc.service.common");
+	dojo.require("dojo.io.iframe");
+	dojo.require("dojo.io.script");
+
+	//Reloads widgets when parts of the page has been re-loaded from server
+	dojo.require("dojo.parser");
+
+	//Category menu support
+	dojo.require("dijit.form.Button");
+	dojo.require("wc.widget.WCMenu");
+	dojo.require("wc.widget.WCDialog");
+	dojo.require("dijit.layout.TabContainer");
+	dojo.require("dijit.layout.ContentPane");
+	dojo.require("dijit.Tooltip");
+	dojo.require("dijit.TooltipDialog");
+	dojo.require("dijit.popup");
+	dojo.require("wc.widget.WCDropDownButton");
+	dojo.require("dijit.Dialog");
+	dojo.require("dojo.currency");
+	dojo.require("dijit.Tree");
+	dojo.require("dojo.back");
+	dojo.require("dijit.form.DateTextBox");
+	dojo.require("wc.widget.Tooltip");
+	dojo.require("wc.widget.RefreshArea");
+	dojo.require("wc.render.RefreshController");
+	dojo.require("wc.render.Context");
+	dojo.require("dojo.cookie");
+	dojo.require("dojo.topic");
+	dojo.require("dojo.date.locale");
+	dojo.require("dojo.on");
+	dojo.require("okey.widgets.OkeyCarousel");
+
+	var loaders = [];    
+    var absoluteURL = "https://www.okeydostavka.ru/webapp/wcs/stores/servlet/";    
+    var styleDirectoryPath = "images/colors/color1/";
+    var supportPaymentTypePromotions = false;
+
+    var subsFulfillmentFrequencyAttrName = "fulfillmentFrequency";
+    var subsPaymentFrequencyAttrName = "paymentFrequency";
+    var subsTimePeriodAttrName = "timePeriod";
+
+    var storeNLS = null;
+    var storeUserType = "R";
+    var ios = false;
+    var android = false;
+    var multiSessionEnabled = true;
+
+    // Store the amount of time of inactivity before a re-login is required, this value is retrieved from wc-server.xml, default is 30 mins
+    var inactivityTimeout = 0;
+
+    // Store the amount of time the inactivity warning dialog will be displayed before it closes itself, default is 20 seconds
+    var inactivityWarningDialogDisplayTimer = 20000;
+
+    // Store the amount of time to display a inactivity warning dialog before a re-login is required, default is 30 seconds
+    var inactivityWarningDialogBuffer = 30000;
+
+    // Store the timing event to display the inactivity dialog
+    var inactivityTimeoutTracker = null;
+
+    // Store the timing event to close the inactivity dialog
+    var dialogTimeoutTracker = null;
+    
+    //Summary: Returns the path pointing to the directory containing color-dependant image files.
+    //Description: In order to get the directory containing color-dependant image files in any javascript file, this function can be used.
+    //Returns: The path to reference color-dependant image files.
+    function getStyleDirectoryPath() {
+        return styleDirectoryPath;
+    }
+
+    var viewportWidth = Math.min(window.screen.width, window.screen.height);
+
+    var scale = viewportWidth / document.documentElement.clientWidth;
+    scale = Math.floor(scale * 100) / 100;
+
+    var FieldHelper = dojo.require("okey.utils.FieldHelper");
+    var MessageHelper =  dojo.require("okey.utils.MessageHelper");
+    var SystemHelper =  dojo.require("okey.utils.SystemHelper");        
+	var gtm = dojo.require("okey.utils.GtmHelper");
+    dojo.addOnLoad(function () {
+    	 var lists = [];
+        lists['GTM_LIST_CATALOG'] = 'Каталог';
+        lists['GTM_LIST_RECOMENDATIONS'] = 'Рекомендации';
+        lists['GTM_LIST_SEARCH'] = 'Поисковый запрос';
+        lists['GTM_LIST_PATTERN'] = 'Шаблон';
+        lists['GTM_LIST_CART'] = 'Корзина';
+        lists['GTM_LIST_HISTORY'] = 'История заказов';
+        gtm.init("RUB", "113", lists, "GTM-K79FP6");
+        SystemHelper.setActionpayCookie();
+
+        if (SystemHelper.isMobileAndTablet()) {
+        	dojo.attr(dojo.body(), "data-wc-device", "mobile");
+    	}
+    });
+
+    var out = '<meta name="viewport" content="width=device-width, initial-scale=' + scale + ', minimum-scale=' + scale + '">';
+   	if (SystemHelper.isMobileAndTablet() && SystemHelper.checkNativeAndroid(navigator.userAgent)!=1)
+   	{
+       	document.write(out);
+   	}
+
+
+	 //Set the default NLS to use in the store.
+    if (storeNLS == null) {
+        dojo.requireLocalization("storetext", "StoreText");
+        storeNLS = dojo.i18n.getLocalization("storetext", "StoreText");
+    }
+
+    var ie6 = false;
+    var ie7 = false;
+    if (navigator != null && navigator.userAgent != null) {
+        ie6 = (navigator.userAgent.toLowerCase().indexOf("msie 6.0") > -1);
+        ie7 = (navigator.userAgent.toLowerCase().indexOf("msie 7.0") > -1);
+    }
+    if (location.href.indexOf('UnsupportedBrowserErrorView') == -1 && (ie6 || ie7)) {
+        document.write('<meta http-equiv="Refresh" content="0;URL="/>');
+    }
+    var isChrome = /Chrome/.test(navigator.userAgent) && /Google Inc/.test(navigator.vendor);
+    var isSafari = /Safari/.test(navigator.userAgent) && /Apple Computer/.test(navigator.vendor);
+
+    if (isChrome || isSafari)
+    {
+        var hiddenFields = dojo.query('input[type=\"hidden\"]');
+        for (var i = 0; i < hiddenFields.length; i++)
+        {
+            hiddenFields[i].autocomplete = "off"
+        }
+    }
+</script>
+
+
+
+<script src="https://api-maps.yandex.ru/2.1/?lang=ru_RU&coordorder=longlat&mode=debug"
+        type="text/javascript"></script>
+
+<script type="text/javascript" src="/wcsstore/OKMarketSAS/_ver_r5956_ver_javascript/Widgets/Search.js"></script>
+<script type="text/javascript" src="/wcsstore/OKMarketSAS/_ver_r5956_ver_javascript/Widgets/Department/Department.js"></script>
+		
+
+		
+<script type="text/javascript">
+   	var isMobihub = true;
+    var productDisplayJS = null; /* temporary for backward compatibility */
+  	require(["okey/utils/SystemHelper", "okey/modules/catalog/ProductSlot"],
+		  	 function(SystemHelper, ProductSlot){
+        var loader = function() {
+               var settings = {
+                  	isDebug: false
+               };
+
+               productDisplayJS = new ProductSlot(settings);
+           };
+           SystemHelper.addLoader(loader);
+  	});
+  	 
+    dojo.addOnLoad(function () {
+    	require(["okey/utils/BundleHelper",  "okey/modules/shopcart/CartOperations"], function(BundleHelper, cart)
+   
