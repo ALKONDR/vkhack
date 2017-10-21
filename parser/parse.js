@@ -23,7 +23,7 @@ htmls.forEach(html => {
     const products = [];
     const prices = [];
 
-    $('div.product_name a').each(function() { products.push($(this).attr('title')); });
+    $('div.product_name a').each(function() { products.push($(this).attr('title').trim()); });
     $('span.price.label').each(function() { prices.push(Number($(this).text().trim().split(' ')[0].replace(',', '.'))); });
 
     const merged = products.map((el, ind) => { return {
