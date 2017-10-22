@@ -249,9 +249,19 @@ img
         display: inline-block;
         /*margin-top: 30px;*/
     }
-.imgButton{
-    text-align: center;
-    margin: 2;
+
+#tg_class{
+    background: url(images/tg-icon.png) left center no-repeat;
+    padding-left: 15px;
+    height: 30px;
+    width: 30px;
+    text-indent: 50px;
+    overflow: hidden;
+}
+
+.img_button{
+    text-align: left;
+    background: url(images/tg-icon.png) left left no-repeat;   
 }
 /* end home */
 
